@@ -1,4 +1,7 @@
 # nrf52-baseproject
+
+[![Build Status](https://travis-ci.org/incyi/nrf52-baseproject.svg?branch=travis)](https://travis-ci.org/incyi/nrf52-baseproject)
+
 This is a CMake project that configure everything needed to build applications for the NRF52 MCU. It configures the toolchain (arm-none-eabi) and the NRF52 SDK.
 
 The CMake files are taken from https://github.com/Polidea/cmake-nRF5x
